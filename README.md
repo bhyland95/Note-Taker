@@ -16,7 +16,7 @@
   Run npm install
  
   ## Usage
-  
+  Deploy to heroku or use other hosting technology.
  
   ## License
   This application is covered by the MIT license. 
